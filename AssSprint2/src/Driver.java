@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Driver {
 
 	private List<Session> listSession = new ArrayList<Session>();
-	private List<Booking> listBooking = new ArrayList<Booking>();
+	private List<Booking> listBooking = new ArrayList<Booking>();//
 
 	public boolean inputInfo() {
 		Verify ver = new Verify();
